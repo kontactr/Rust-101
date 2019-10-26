@@ -22,6 +22,6 @@ pub fn vars(){
 
 
     //Assign multiple vars
-    let (a , b, c, d) = (1,2,4,5 , 6);
+    let (a , b, c, d , e) = (1,2,4,5 , 6);
     println!("{:?}",  (a,b,c,d))
 }
