@@ -2,7 +2,7 @@
 //mod vars;
 mod types;
 
-fn main() {
+fn main() {   
    // print::run();
    //vars::vars();
    types::one()
