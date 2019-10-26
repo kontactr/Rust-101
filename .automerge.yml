@@ -9,6 +9,6 @@ merge:
   # one of: merge, squash, rebase
   method: merge
   # status checks required in addition to the ones defined in GitHub Branch Protection Rules
-  required_statuses:
-    - "Loose"
+  #required_statuses:
+  #  - "Loose"
   delete_after_merge: false
